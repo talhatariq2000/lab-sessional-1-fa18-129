@@ -1,0 +1,52 @@
+#contact{
+    padding-top: 10px;
+    padding-right: 15%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+#contact img{
+    height: 15px;
+    width: 15px;
+}
+#contact a{
+    text-decoration: none;
+    color: black;
+}
+
+#top{
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#logo{
+    height: 70px;
+    width: 150px;;
+}
+#menu{
+    width: 20px;
+    height: 20px;
+}
+
+#collage{
+    width: 100%;
+}
+#stickychat{
+    position: -webkit-sticky;
+  position: sticky;
+  bottom: 10;
+  left: 10;
+  background-color: yellow;
+  overflow: hidden;
+}
+#chat{
+    width: 50px;
+    height: 50px;
+}
+
+#agility{
+    display: flex;
+    flex-direction: column;
+}
